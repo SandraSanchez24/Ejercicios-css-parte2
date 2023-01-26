@@ -1,0 +1,71 @@
+body {
+    font-family: 'Lato', sans-serif;
+    background-color: rgb(48, 217, 247);
+}
+.caja-contenedora {
+    background-color: white;
+    width: 25rem;
+    height: 28rem;
+    padding: 2rem;
+    border-radius: 5px;
+    position: relative;
+    top: 5rem;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 7px 9px 40px -14px rgba(0,0,0,0.75);
+-webkit-box-shadow: 7px 9px 40px -14px rgba(0,0,0,0.75);
+-moz-box-shadow: 7px 9px 40px -14px rgba(0,0,0,0.75);
+}
+button{
+    font-family: 'Lato', sans-serif;
+    border-radius: 5px;
+    background-color: white;
+    border: 1px solid rgb(214, 208, 208);
+}
+h1 {
+    font-size: 25px;
+    margin: 0px;
+}
+h1, button {
+    display: inline-block;
+    justify-content: space-between;
+}
+.caja1 {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+h2 {
+    font-size: 20px;
+}
+h3 {
+    font-size: 15px;
+    color: rgb(99, 93, 93);
+}
+.caja2 {
+    padding: 12px 5px;
+    border-left: crimson solid;
+    border-top: 1px solid rgb(214, 208, 208);
+    border-right: 1px solid rgb(214, 208, 208);
+    border-bottom: 1px solid rgb(214, 208, 208);
+    border-radius: 6px;
+    margin-bottom: 10px;
+}
+.caja3 {
+    padding: 12px 5px;
+    border-left: rgb(187, 20, 220) solid;
+    border-top: 1px solid rgb(214, 208, 208);
+    border-right: 1px solid rgb(214, 208, 208);;
+    border-bottom: 1px solid rgb(214, 208, 208);;
+    border-radius: 6px;
+    margin-bottom: 10px;
+}
+.caja4 {
+    padding: 12px 5px;
+    border-left: rgb(223, 141, 18) solid;
+    border-top: 1px solid rgb(214, 208, 208);
+    border-right: 1px solid rgb(214, 208, 208);;
+    border-bottom: 1px solid rgb(214, 208, 208);;
+    border-radius: 6px;
+    margin-bottom: 10px;
+}

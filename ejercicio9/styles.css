@@ -1,0 +1,63 @@
+body{
+    font-family: 'Philosopher', sans-serif;
+    background-color: rgb(236, 234, 234);
+}
+.caja-contenedora{
+    background-color: white;
+    width: 40rem;
+    padding: 4rem 3rem ;
+    position: relative;
+    left: 15rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+/* aqui se me complico centrar  horizontalmente la caja-contenedora*/
+h1{
+    font-size: 40px;
+    font-weight: bolder;
+    margin: 0px;
+    margin-bottom: 2rem;
+
+}
+div{
+    display: inline-block;
+    margin-bottom: 1rem;
+    margin-bottom: 3rem;
+}
+.c1, .c2{
+    padding: 0.5rem;
+    border-radius: 5px;
+}
+.c1 {
+    background-color: rgb(49, 49, 49);
+    color: white;
+}
+.c2{
+    color: rgb(180, 177, 177);
+}
+.caja1{
+    display: block;
+    margin: 0px;
+}
+.inline{
+    display: inline-block;
+    color: rgb(236, 90, 90);
+}
+span{
+    color: rgb(180, 177, 177);
+}
+p{
+    color: rgb(180, 177, 177);
+}
+a{
+    color: blue;
+    text-decoration: none;
+}
+hr {
+    color: rgba(219, 217, 217, 0.315);
+    width: 42rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    align-content: center;
+}
+/*aqui se me complico cambiar el color a la linea y centrar*/

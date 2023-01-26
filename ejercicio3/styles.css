@@ -1,0 +1,35 @@
+.bandera-argentina, .bandera-austria, .bandera-rusia, .bandera-armenia, .bandera-bulgaria, .bandera-serbia  {
+    width: 300px;
+    height: 200px;
+    border: solid black;
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2rem;
+
+}
+.franja-celeste {
+    height: calc(200px/3);
+    background-color: aqua;
+}
+.franja-blanca{
+    height: calc(200px/3);
+    background-color: white;
+}
+.franja-roja{
+    height: calc(200px/3);
+    background-color: red;
+}
+.franja-amarilla {
+    height: calc(200px/3);
+    background-color: yellow;
+}
+.franja-azul{
+    height: calc(200px/3);
+    background-color: blue;
+}
+.franja-verde{
+    height: calc(200px/3);
+    background-color: rgb(16, 104, 31);
+}

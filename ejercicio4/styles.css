@@ -1,0 +1,38 @@
+.barra1, .barra2, .barra3, .barra4, .barra5 {
+    width: 500px;
+    height: 30px;
+    background-color: rgb(219, 215, 215);
+    border-radius: 100px;
+    padding: 3px;
+    margin-bottom: 1rem;
+}
+.progreso10 {
+    width: 10%;
+    height: 30px;
+    background-color: green;
+    border-radius: 100px;
+}
+.progreso25 {
+    width: 25%;
+    height: 30px;
+    background-color: green;
+    border-radius: 100px;
+}
+.progreso50 {
+    width: 50%;
+    height: 30px;
+    background-color: green;
+    border-radius: 100px;
+}
+.progreso75 {
+    width: 75%;
+    height: 30px;
+    background-color: green;
+    border-radius: 100px;
+}
+.progreso90 {
+    width: 90%;
+    height: 30px;
+    background-color: green;
+    border-radius: 100px;
+}

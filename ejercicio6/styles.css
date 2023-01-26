@@ -1,0 +1,63 @@
+body{
+    background-color: rgb(238, 233, 243);
+}
+div{
+    background-color: white;
+    width: 19rem;
+    height: 13rem;
+    padding: 3.5rem 3rem;
+    border-radius: 10px;
+    box-shadow: 7px 9px 40px -14px rgba(0,0,0,0.75);
+-webkit-box-shadow: 7px 9px 40px -14px rgba(0,0,0,0.75);
+-moz-box-shadow: 7px 9px 40px -14px rgba(0,0,0,0.75);
+    position: relative;
+    top: 10rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+    font-family: 'Roboto Mono', monospace;
+    font-size: 18px;
+    padding-bottom: 1.5rem;
+    padding-left: 1rem;
+}
+.boton1{
+    border: 1px solid rgb(224, 221, 221);
+    background-color: white;
+    color: blueviolet;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 5px;
+    width: 4rem;
+}
+.boton2{
+    border: 1px solid rgb(224, 221, 221);
+    background-color: blueviolet;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 5px;
+    width: 4rem;
+}
+.boton3{
+    border: 1px solid rgb(224, 221, 221);
+    background-color: blueviolet;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 5px;
+    width: 17.9rem;
+    margin-top: 1rem;
+}
+.boton4{
+    border: 1px solid rgb(224, 221, 221);
+    background-color: white;
+    color: blueviolet;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 5px;
+    width: 5rem;
+}
+.boton1, .boton2, .boton4 {
+    display: inline-block;
+}

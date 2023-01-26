@@ -1,0 +1,37 @@
+body {
+    font-family: 'Hind Siliguri', sans-serif;
+    background-color: rgb(3, 146, 230);
+}
+h1{
+    color: white;
+    font-weight: bold;
+   
+}
+.caja1{
+    background-color: rgb(235, 230, 230);
+    width: 20rem;
+    border-radius: 4px;
+}
+h2{
+    font-weight: bold;
+    padding-top: 10px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+}
+.caja2{
+    font-size: 18px;
+    background-color: white;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-radius: 5px;
+    margin-bottom: 7px;
+    padding: 5px;
+}
+p {
+    padding-top: 0px;
+    margin-top: 0px;
+    margin-left: 9px;
+    color: gray;
+    font-weight: bold;
+    padding-bottom: 5px;
+}
